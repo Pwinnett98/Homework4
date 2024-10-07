@@ -1,0 +1,17 @@
+<resources>
+<string name="superhero_name_1">Nick the Night and Day</string>
+<string name="superhero_name_2">Reality Protector</string>
+<string name="superhero_name_3">Andre the Giant</string>
+<string name="superhero_name_4">Benjamin the Brave</string>
+<string name="superhero_name_5">Magnificent Maru</string>
+<string name="superhero_name_6">Dynamic Yasmine</string>
+<string name="superhero_description_1">The Jetpack Hero</string>
+<string name="superhero_description_2">Understands the Absolute Truth</string>
+<string name="superhero_description_3">Mimics the Light and Night to Blend in</string>
+<string name="superhero_description_4">Harnesses the Power of Canary to Develop Bravely</string>
+<string name="superhero_description_5">Effortlessly Glides in to Save the Day</string>
+<string name="superhero_description_6">Ability to Shift to any Form and Energize</string>
+<string name="about">About:</string>
+<string name="years_old">%d years old</string>
+<string name="expand_button_content_description">See more or less information about a hero.</string>
+</resources>
